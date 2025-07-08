@@ -1,0 +1,495 @@
+{
+  "🏛️ Ancient Rome": {
+    "🏛️ Roman Republic & Expansion": [
+      {
+        "questionText": "When was the Roman Republic traditionally founded?",
+        "options": ["44 BCE", "27 BCE", "509 BCE", "753 BCE"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Roman Republic was founded in 509 BCE after the fall of the Roman monarchy."
+      },
+      {
+        "questionText": "What was the primary governing body of the Roman Republic?",
+        "options": ["Assembly of Tribes", "Praetorian Guard", "Senate", "Emperor"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Senate, composed of aristocratic elders, was the key decision-making body."
+      },
+      {
+        "questionText": "Which social classes struggled for power during the Republic?",
+        "options": ["Slaves and Freedmen", "Consuls and Praetors", "Equestrians and Senators", "Patricians and Plebeians"],
+        "correctAnswerIndex": 3,
+        "explanation": "Patricians and Plebeians engaged in the 'Conflict of the Orders' for rights and political representation."
+      },
+      {
+        "questionText": "What were the top two executive positions in the Roman Republic?",
+        "options": ["Censors", "Tribunes", "Consuls", "Dictators"],
+        "correctAnswerIndex": 2,
+        "explanation": "Two Consuls were elected annually to lead the Republic and command armies."
+      },
+      {
+        "questionText": "Which body represented the Plebeians?",
+        "options": ["Senate", "Centuriate Assembly", "Tribunes of the Plebs", "Censors"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Tribunes of the Plebs were officials elected to protect plebeian rights."
+      },
+      {
+        "questionText": "What powers did Tribunes of the Plebs have?",
+        "options": ["Declare war", "Control the treasury", "Veto laws", "Appoint consuls"],
+        "correctAnswerIndex": 2,
+        "explanation": "Tribunes had veto power over actions of magistrates and Senate to protect plebeian interests."
+      },
+      {
+        "questionText": "Who could serve as Roman Senators during the early Republic?",
+        "options": ["Only Patricians", "Only Plebeians", "Slaves", "Foreigners"],
+        "correctAnswerIndex": 0,
+        "explanation": "Initially, only Patricians could be Senators, though Plebeians gained access later."
+      },
+      {
+        "questionText": "What was the Roman Republic’s law code called?",
+        "options": ["Justinian Code", "Code of Hammurabi", "Twelve Tables", "Corpus Juris Civilis"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Law of the Twelve Tables (451 BCE) was Rome’s first formal written legal code."
+      },
+      {
+        "questionText": "Which war marked Rome’s rise as a Mediterranean power?",
+        "options": ["Samnite Wars", "Macedonian Wars", "Punic Wars", "Gallic Wars"],
+        "correctAnswerIndex": 2,
+        "explanation": "Rome's victory in the Punic Wars, especially over Carthage, established it as a dominant power."
+      },
+      {
+        "questionText": "Who was Rome’s famous general during the Second Punic War?",
+        "options": ["Marius", "Scipio Africanus", "Julius Caesar", "Cincinnatus"],
+        "correctAnswerIndex": 1,
+        "explanation": "Scipio Africanus defeated Hannibal at the Battle of Zama in 202 BCE."
+      },
+      {
+        "questionText": "What was the outcome of the Third Punic War?",
+        "options": ["Carthage became an ally", "Rome was defeated", "Carthage was destroyed", "Peace treaty signed"],
+        "correctAnswerIndex": 2,
+        "explanation": "In 146 BCE, Carthage was completely destroyed, and its land became a Roman province."
+      },
+      {
+        "questionText": "What role did Roman legions play in expansion?",
+        "options": ["Guard the city", "Enforce law", "Conquer and secure territories", "Build aqueducts"],
+        "correctAnswerIndex": 2,
+        "explanation": "Roman legions were crucial in conquering and defending Roman territories."
+      },
+      {
+        "questionText": "What reform did the Gracchi brothers advocate?",
+        "options": ["Military dictatorship", "Abolition of slavery", "Land redistribution", "Religious freedom"],
+        "correctAnswerIndex": 2,
+        "explanation": "Tiberius and Gaius Gracchus pushed for land reforms to benefit poor Roman citizens."
+      },
+      {
+        "questionText": "Who was the Roman general that reformed the army by recruiting landless citizens?",
+        "options": ["Pompey", "Sulla", "Marius", "Crassus"],
+        "correctAnswerIndex": 2,
+        "explanation": "Gaius Marius allowed landless citizens to serve, creating professional armies loyal to generals."
+      },
+      {
+        "questionText": "What was the result of Sulla's dictatorship?",
+        "options": ["Expanded democracy", "Increased power of the Plebeians", "Strengthened the Senate", "Ended Republic"],
+        "correctAnswerIndex": 2,
+        "explanation": "Sulla's reforms aimed to restore the Senate's power after years of populist threats."
+      },
+      {
+        "questionText": "Who formed the First Triumvirate?",
+        "options": ["Caesar, Brutus, and Cicero", "Pompey, Caesar, and Crassus", "Sulla, Marius, and Nero", "Augustus, Mark Antony, and Lepidus"],
+        "correctAnswerIndex": 1,
+        "explanation": "Pompey, Caesar, and Crassus informally shared power in the First Triumvirate."
+      },
+      {
+        "questionText": "What marked the end of the Roman Republic?",
+        "options": ["Fall of Carthage", "Caesar’s assassination", "Battle of Actium", "Augustus becoming Emperor"],
+        "correctAnswerIndex": 3,
+        "explanation": "When Augustus became Emperor in 27 BCE, the Republic transitioned into the Roman Empire."
+      },
+      {
+        "questionText": "What title did Augustus take that symbolized imperial rule?",
+        "options": ["Consul", "Tribune", "Dictator", "Princeps"],
+        "correctAnswerIndex": 3,
+        "explanation": "Augustus styled himself as 'Princeps' or 'first citizen', marking a shift to autocracy."
+      },
+      {
+        "questionText": "Which Roman road was essential for military and trade expansion?",
+        "options": ["Via Sacra", "Via Appia", "Via Aurelia", "Via Latina"],
+        "correctAnswerIndex": 1,
+        "explanation": "Via Appia, one of the earliest roads, connected Rome to southern Italy and aided expansion."
+      },
+      {
+        "questionText": "What event led to Caesar crossing the Rubicon River?",
+        "options": ["Election loss", "Command renewal", "Senate’s order to disband his army", "Rebellion in Gaul"],
+        "correctAnswerIndex": 2,
+        "explanation": "Caesar defied the Senate’s order, crossing the Rubicon in 49 BCE and sparking civil war."
+      }
+    ],
+    "🏛️ Julius Caesar & Augustus": [
+      {
+        "questionText": "Who was Julius Caesar?",
+        "options": ["A Greek philosopher", "A Roman general and statesman", "An Egyptian pharaoh", "A Carthaginian general"],
+        "correctAnswerIndex": 1,
+        "explanation": "Julius Caesar was a Roman general and statesman who played a critical role in the end of the Roman Republic.\n\nExtra Fact: He was assassinated in 44 BCE.\n\nSources: Roman History"
+      },
+      {
+        "questionText": "What title was Julius Caesar granted that marked his rise in power?",
+        "options": ["Emperor", "Consul", "Dictator for life", "Senator"],
+        "correctAnswerIndex": 2,
+        "explanation": "Caesar was declared 'dictator for life' in 44 BCE, which alarmed many senators.\n\nExtra Fact: This title led to his assassination.\n\nSources: Political History"
+      },
+      {
+        "questionText": "Who assassinated Julius Caesar?",
+        "options": ["Mark Antony", "Augustus", "Pompey", "Brutus and Cassius"],
+        "correctAnswerIndex": 3,
+        "explanation": "Brutus and Cassius led the conspiracy that assassinated Julius Caesar.\n\nExtra Fact: Caesar was stabbed 23 times.\n\nSources: Roman History"
+      },
+      {
+        "questionText": "What famous line is attributed to Caesar upon crossing the Rubicon?",
+        "options": ["Veni, vidi, vici", "Et tu, Brute?", "Alea iacta est", "Carpe diem"],
+        "correctAnswerIndex": 2,
+        "explanation": "Caesar said 'Alea iacta est' (The die is cast) when crossing the Rubicon, starting a civil war.\n\nSources: Military History"
+      },
+      {
+        "questionText": "What was the significance of crossing the Rubicon?",
+        "options": ["It started a war with Gaul", "It was a religious ritual", "It signaled a rebellion against the Senate", "It marked Caesar’s return to Rome"],
+        "correctAnswerIndex": 2,
+        "explanation": "Crossing the Rubicon with an army was a declaration of war against the Roman Senate.\n\nSources: Political History"
+      },
+      {
+        "questionText": "Which battle saw Caesar defeat Pompey?",
+        "options": ["Battle of Zama", "Battle of Actium", "Battle of Pharsalus", "Battle of Cannae"],
+        "correctAnswerIndex": 2,
+        "explanation": "At the Battle of Pharsalus (48 BCE), Caesar defeated Pompey’s forces in a major civil war victory.\n\nSources: Military History"
+      },
+      {
+        "questionText": "Who succeeded Julius Caesar as Rome’s leader?",
+        "options": ["Mark Antony", "Octavian (Augustus)", "Brutus", "Cicero"],
+        "correctAnswerIndex": 1,
+        "explanation": "Caesar’s adopted heir Octavian (later Augustus) became Rome’s first emperor.\n\nSources: Roman History"
+      },
+      {
+        "questionText": "What was Augustus’s original name?",
+        "options": ["Tiberius Gracchus", "Gaius Octavius", "Lucius Cornelius", "Marcus Aurelius"],
+        "correctAnswerIndex": 1,
+        "explanation": "Augustus was born Gaius Octavius and was later adopted by Julius Caesar.\n\nSources: Biographical History"
+      },
+      {
+        "questionText": "What title did Octavian receive in 27 BCE?",
+        "options": ["Dictator", "Senator", "Caesar", "Augustus"],
+        "correctAnswerIndex": 3,
+        "explanation": "In 27 BCE, the Senate granted Octavian the title 'Augustus', meaning 'the revered one'.\n\nSources: Political History"
+      },
+      {
+        "questionText": "What form of government did Augustus establish?",
+        "options": ["Monarchy", "Republic", "Empire", "Democracy"],
+        "correctAnswerIndex": 2,
+        "explanation": "Augustus established the Roman Empire, ending the centuries-old Republic.\n\nSources: Roman History"
+      },
+      {
+        "questionText": "Which institution did Augustus preserve to maintain appearance of a Republic?",
+        "options": ["The Consulship", "The Senate", "The Tribunate", "The Assembly"],
+        "correctAnswerIndex": 1,
+        "explanation": "Augustus maintained the Senate to give the illusion of republican governance.\n\nSources: Political History"
+      },
+      {
+        "questionText": "What was the Pax Romana?",
+        "options": ["A Roman civil war", "A military conquest", "A 200-year period of peace", "An agreement with Carthage"],
+        "correctAnswerIndex": 2,
+        "explanation": "Pax Romana was a long era of peace and prosperity initiated under Augustus.\n\nSources: World History"
+      },
+      {
+        "questionText": "Which structure did Augustus famously claim to have found in brick and left in marble?",
+        "options": ["Colosseum", "Pantheon", "Rome", "Forum"],
+        "correctAnswerIndex": 2,
+        "explanation": "Augustus said, “I found Rome a city of brick and left it a city of marble.”\n\nSources: Roman Architecture"
+      },
+      {
+        "questionText": "What battle marked the final defeat of Mark Antony and Cleopatra?",
+        "options": ["Battle of Actium", "Battle of Philippi", "Battle of Teutoburg Forest", "Battle of Carrhae"],
+        "correctAnswerIndex": 0,
+        "explanation": "At Actium (31 BCE), Octavian’s fleet defeated Antony and Cleopatra, leading to their suicides.\n\nSources: Naval Warfare"
+      },
+      {
+        "questionText": "What was the Second Triumvirate?",
+        "options": ["Senate reform", "Religious council", "Alliance between Octavian, Antony, and Lepidus", "Military dictatorship"],
+        "correctAnswerIndex": 2,
+        "explanation": "Formed in 43 BCE, the Second Triumvirate was a legal alliance among Octavian, Antony, and Lepidus.\n\nSources: Political History"
+      },
+      {
+        "questionText": "How did Augustus consolidate power without appearing tyrannical?",
+        "options": ["He abolished the Senate", "He declared himself king", "He used traditional Republican titles", "He ruled from Egypt"],
+        "correctAnswerIndex": 2,
+        "explanation": "Augustus retained republican institutions but held all real power.\n\nSources: Government Studies"
+      },
+      {
+        "questionText": "What religious reforms did Augustus implement?",
+        "options": ["Banned temples", "Introduced Christianity", "Revived old Roman religions", "Abolished priesthoods"],
+        "correctAnswerIndex": 2,
+        "explanation": "Augustus restored traditional Roman religious practices to promote social order.\n\nSources: Roman Religion"
+      },
+      {
+        "questionText": "How did Augustus portray his rule in art and monuments?",
+        "options": ["As a dictator", "As a divine being", "As a humble servant of Rome", "As a warrior emperor"],
+        "correctAnswerIndex": 2,
+        "explanation": "Augustus used propaganda to present himself as a restorer of peace and tradition.\n\nSources: Art History"
+      },
+      {
+        "questionText": "Which building project is most associated with Augustus?",
+        "options": ["Pantheon", "Circus Maximus", "Ara Pacis", "Colosseum"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Ara Pacis (Altar of Peace) symbolized Augustus’s reign and the Pax Romana.\n\nSources: Roman Art"
+      },
+      {
+        "questionText": "What was Augustus’s legacy?",
+        "options": ["Restored monarchy", "Strengthened Senate", "Ended empire", "Established principate and imperial dynasty"],
+        "correctAnswerIndex": 3,
+        "explanation": "Augustus established the principate, setting up the Julio-Claudian dynasty and lasting empire.\n\nSources: Roman Legacy"
+      }
+    ]
+  },
+  "⛪ Medieval Period": {
+    "⚔️ The Crusades": [
+      {
+        "questionText": "What were the Crusades?",
+        "options": ["Religious pilgrimages", "Trade missions to Asia", "Military campaigns to reclaim the Holy Land", "Exploration journeys to the Americas"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Crusades were a series of religious wars initiated by Christians to reclaim Jerusalem and other holy sites from Muslim rule.\n\nExtra Fact: They lasted from the late 11th to the late 13th century.\n\nSources: Medieval History"
+      },
+      {
+        "questionText": "When did the First Crusade begin?",
+        "options": ["1096", "1066", "1189", "1204"],
+        "correctAnswerIndex": 0,
+        "explanation": "The First Crusade began in 1096 following Pope Urban II's call to arms at the Council of Clermont.\n\nSources: Crusade Chronology"
+      },
+      {
+        "questionText": "Who called for the First Crusade?",
+        "options": ["King Richard I", "Pope Urban II", "Saladin", "Charlemagne"],
+        "correctAnswerIndex": 1,
+        "explanation": "Pope Urban II called for the First Crusade in 1095 to help the Byzantine Empire and reclaim Jerusalem.\n\nSources: Religious History"
+      },
+      {
+        "questionText": "What city was the main goal of the Crusaders?",
+        "options": ["Antioch", "Baghdad", "Jerusalem", "Constantinople"],
+        "correctAnswerIndex": 2,
+        "explanation": "Jerusalem was considered sacred by Christians, Jews, and Muslims and was the primary target of several Crusades.\n\nSources: Crusade Objectives"
+      },
+      {
+        "questionText": "Who led the Muslim defense during the Third Crusade?",
+        "options": ["Suleiman", "Saladin", "Harun al-Rashid", "Muhammad al-Fatih"],
+        "correctAnswerIndex": 1,
+        "explanation": "Saladin was the Sultan of Egypt and Syria who recaptured Jerusalem in 1187 and fought against Crusaders.\n\nSources: Islamic Leaders"
+      },
+      {
+        "questionText": "Which English king was known as 'The Lionheart' for his role in the Crusades?",
+        "options": ["Henry VIII", "Richard I", "Edward I", "James I"],
+        "correctAnswerIndex": 1,
+        "explanation": "Richard I of England, known as Richard the Lionheart, led forces during the Third Crusade.\n\nSources: British History"
+      },
+      {
+        "questionText": "What event marked the success of the First Crusade?",
+        "options": ["Capture of Antioch", "Battle of Tours", "Siege of Jerusalem", "Treaty of Tordesillas"],
+        "correctAnswerIndex": 2,
+        "explanation": "The First Crusade successfully captured Jerusalem in 1099.\n\nSources: Crusade Victories"
+      },
+      {
+        "questionText": "What was the Children's Crusade?",
+        "options": ["A training program for young Crusaders", "A peaceful protest by children", "A failed crusade involving thousands of young people", "A fictional story"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Children's Crusade (1212) was a tragic movement where thousands of children attempted to peacefully reclaim the Holy Land, but many perished or were enslaved.\n\nSources: Lesser-known Crusades"
+      },
+      {
+        "questionText": "Which Crusade led to the sacking of Constantinople?",
+        "options": ["First", "Second", "Fourth", "Sixth"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Fourth Crusade (1202–1204) went off course and resulted in the sack of Constantinople, a Christian city.\n\nSources: Byzantine History"
+      },
+      {
+        "questionText": "What was the main motive for most Crusaders?",
+        "options": ["To gain trade advantages", "To convert Muslims", "To spread feudalism", "To gain spiritual merit and land"],
+        "correctAnswerIndex": 3,
+        "explanation": "Many Crusaders hoped to receive forgiveness of sins (indulgences) and to acquire wealth or land.\n\nSources: Crusader Motivations"
+      },
+      {
+        "questionText": "What was a 'crusader state'?",
+        "options": ["An Islamic territory", "A kingdom established by Crusaders in the Holy Land", "A Byzantine province", "A papal state in Italy"],
+        "correctAnswerIndex": 1,
+        "explanation": "Crusader states were territories like the Kingdom of Jerusalem established by Crusaders after the First Crusade.\n\nSources: Political Outcomes"
+      },
+      {
+        "questionText": "How did the Crusades affect trade in Europe?",
+        "options": ["Trade decreased drastically", "Trade remained unchanged", "Trade routes were destroyed", "Trade increased with the East"],
+        "correctAnswerIndex": 3,
+        "explanation": "The Crusades increased European exposure to Eastern goods, boosting trade with Asia.\n\nSources: Economic History"
+      },
+      {
+        "questionText": "What religious benefit was promised to Crusaders?",
+        "options": ["Access to relics", "Guaranteed entry to heaven", "Indulgence (forgiveness of sins)", "Clergy status"],
+        "correctAnswerIndex": 2,
+        "explanation": "Pope Urban II promised full indulgence to those who joined the Crusades.\n\nSources: Religious Doctrine"
+      },
+      {
+        "questionText": "Which Muslim leader retook Jerusalem in 1187?",
+        "options": ["Saladin", "Suleiman", "Harun", "Baybars"],
+        "correctAnswerIndex": 0,
+        "explanation": "Saladin’s capture of Jerusalem sparked the Third Crusade.\n\nSources: Crusade Turning Points"
+      },
+      {
+        "questionText": "Which military order was founded during the Crusades?",
+        "options": ["Jesuits", "Benedictines", "Templars", "Franciscans"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Knights Templar were a powerful military order created to protect Christian pilgrims.\n\nSources: Religious Orders"
+      },
+      {
+        "questionText": "What effect did the Crusades have on the power of the Catholic Church?",
+        "options": ["Weakened it", "Had no effect", "Strengthened it initially", "Separated it from kings"],
+        "correctAnswerIndex": 2,
+        "explanation": "Initially, the Crusades strengthened the Pope’s authority across Europe.\n\nSources: Church and State"
+      },
+      {
+        "questionText": "What was the outcome of the Second Crusade?",
+        "options": ["Jerusalem was recaptured", "Muslims were defeated", "It failed to achieve major goals", "Crusaders reached China"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Second Crusade (1147–1149) was largely unsuccessful in retaking any significant territory.\n\nSources: Crusade Failures"
+      },
+      {
+        "questionText": "What impact did the Crusades have on European knowledge?",
+        "options": ["No change", "Loss of ancient texts", "Increased contact with advanced Islamic science and culture", "A ban on foreign knowledge"],
+        "correctAnswerIndex": 2,
+        "explanation": "Europeans were exposed to advanced Islamic science, medicine, and philosophy, sparking interest in learning.\n\nSources: Intellectual History"
+      },
+      {
+        "questionText": "Who was Frederick Barbarossa?",
+        "options": ["A Pope", "A Byzantine Emperor", "A German Emperor who died on the Third Crusade", "A Templar leader"],
+        "correctAnswerIndex": 2,
+        "explanation": "Frederick I (Barbarossa) was the Holy Roman Emperor who drowned en route to the Third Crusade.\n\nSources: Crusader Biographies"
+      },
+      {
+        "questionText": "How many major Crusades are recognized historically?",
+        "options": ["4", "7", "9", "12"],
+        "correctAnswerIndex": 2,
+        "explanation": "Historians generally recognize 9 major Crusades between 1096 and 1272.\n\nSources: Crusade Timeline"
+      }
+    ],
+
+    "🏰 Feudalism": [
+      {
+        "questionText": "What was the basic social system in medieval Europe known as Feudalism?",
+        "options": ["A centralized government system", "A system based on land ownership and obligations", "A type of monarchy", "A democratic voting process"],
+        "correctAnswerIndex": 1,
+        "explanation": "Feudalism was a social, economic, and political system based on the exchange of land for service and loyalty.\n\nExtra Fact: It structured society into classes like kings, nobles, knights, and peasants.\n\nSources: Medieval History"
+      },
+      {
+        "questionText": "Who was at the top of the feudal hierarchy?",
+        "options": ["Serfs", "Knights", "Kings or Monarchs", "Peasants"],
+        "correctAnswerIndex": 2,
+        "explanation": "Kings or Monarchs were at the top of the feudal system, granting land to nobles in exchange for loyalty.\n\nExtra Fact: They had the ultimate authority but depended on nobles to manage lands.\n\nSources: Feudal Studies"
+      },
+      {
+        "questionText": "What was land granted by a lord to a vassal called?",
+        "options": ["Estate", "Fief", "Manor", "Domain"],
+        "correctAnswerIndex": 1,
+        "explanation": "A fief was the land granted to a vassal by a lord in exchange for loyalty and service.\n\nSources: Medieval Terminology"
+      },
+      {
+        "questionText": "Who were vassals in the feudal system?",
+        "options": ["Farmers", "Rulers", "Servants", "Nobles who received land and served a lord"],
+        "correctAnswerIndex": 3,
+        "explanation": "Vassals were nobles who pledged loyalty and military service to a lord in return for land.\n\nSources: Feudal Obligations"
+      },
+      {
+        "questionText": "What was a manor in feudal Europe?",
+        "options": ["A military base", "The king’s castle", "A self-sufficient estate owned by a lord", "A marketplace"],
+        "correctAnswerIndex": 2,
+        "explanation": "A manor was a lord’s estate that included villages, farmland, and the people living on it.\n\nSources: Economic History"
+      },
+      {
+        "questionText": "Which group worked the land and had few rights in feudal society?",
+        "options": ["Clergy", "Knights", "Serfs", "Vassals"],
+        "correctAnswerIndex": 2,
+        "explanation": "Serfs were peasants bound to the land who worked in return for protection and shelter.\n\nSources: Social Hierarchy"
+      },
+      {
+        "questionText": "What did knights offer to lords in return for land?",
+        "options": ["Gold", "Clergy support", "Military service", "Legal advice"],
+        "correctAnswerIndex": 2,
+        "explanation": "Knights provided military service and loyalty in return for land (fiefs) from their lords.\n\nSources: Warrior Class"
+      },
+      {
+        "questionText": "What was the role of the Church in the feudal system?",
+        "options": ["It had no role", "It only provided spiritual guidance", "It was a powerful landowner and influenced politics", "It served as a military force"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Church owned large estates and had significant political power in feudal society.\n\nSources: Religious History"
+      },
+      {
+        "questionText": "Which of the following best describes feudal obligations?",
+        "options": ["Equal rights for all classes", "Voluntary service", "Mutual responsibilities between lords and vassals", "Separation of church and state"],
+        "correctAnswerIndex": 2,
+        "explanation": "Feudalism relied on mutual obligations: lords gave land, vassals gave loyalty and military aid.\n\nSources: Feudal Duties"
+      },
+      {
+        "questionText": "What was homage in the feudal system?",
+        "options": ["Payment of taxes", "Ceremonial bowing", "A pledge of loyalty from vassal to lord", "Religious offering"],
+        "correctAnswerIndex": 2,
+        "explanation": "Homage was the act of a vassal pledging loyalty and service to a lord.\n\nSources: Feudal Rituals"
+      },
+      {
+        "questionText": "Which institution helped preserve learning during the feudal era?",
+        "options": ["Knights", "The military", "The Church", "Merchants"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Church preserved classical knowledge through monasteries and scriptoria.\n\nSources: Educational History"
+      },
+      {
+        "questionText": "Which of these events helped weaken feudalism?",
+        "options": ["The Crusades", "The Black Death", "The Hundred Years’ War", "All of the above"],
+        "correctAnswerIndex": 3,
+        "explanation": "All listed events contributed to the decline of feudalism in Europe.\n\nSources: Decline of Feudalism"
+      },
+      {
+        "questionText": "What role did castles serve in the feudal system?",
+        "options": ["Entertainment", "Religious services", "Military defense and residence", "Education centers"],
+        "correctAnswerIndex": 2,
+        "explanation": "Castles were fortified residences for lords and centers of local military power.\n\nSources: Medieval Architecture"
+      },
+      {
+        "questionText": "Which code governed the behavior of knights?",
+        "options": ["Justinian Code", "Canon Law", "Chivalry", "Feudal Decree"],
+        "correctAnswerIndex": 2,
+        "explanation": "The Code of Chivalry emphasized bravery, honor, and protection of the weak.\n\nSources: Knightly Virtues"
+      },
+      {
+        "questionText": "What was the economic basis of feudal manors?",
+        "options": ["Gold mining", "Trade", "Self-sufficiency", "Fishing"],
+        "correctAnswerIndex": 2,
+        "explanation": "Manors produced most of what they needed, limiting the need for trade.\n\nSources: Feudal Economy"
+      },
+      {
+        "questionText": "Why were serfs not considered slaves?",
+        "options": ["They had voting rights", "They could own land", "They were bound to land, not owned", "They could leave freely"],
+        "correctAnswerIndex": 2,
+        "explanation": "Serfs were legally tied to the land but were not owned outright like slaves.\n\nSources: Legal History"
+      },
+      {
+        "questionText": "Which legal system operated on a manor?",
+        "options": ["Common Law", "Manorial Court", "Canon Law", "Roman Law"],
+        "correctAnswerIndex": 1,
+        "explanation": "Manorial courts resolved disputes and enforced rules within the manor.\n\nSources: Local Governance"
+      },
+      {
+        "questionText": "How did feudal lords enforce order on their lands?",
+        "options": ["Through elected councils", "By Church decree", "Using knights and private armies", "Through Roman law"],
+        "correctAnswerIndex": 2,
+        "explanation": "Lords maintained control using private armies, often composed of knights.\n\nSources: Feudal Security"
+      },
+      {
+        "questionText": "What was the feudal contract?",
+        "options": ["A written agreement", "Unwritten mutual agreement between lords and vassals", "Church-issued license", "Legal trial"],
+        "correctAnswerIndex": 1,
+        "explanation": "The feudal contract was a mutual, often unwritten, agreement of duties and protections.\n\nSources: Feudal Law"
+      },
+      {
+        "questionText": "What helped increase the power of kings at the end of the feudal era?",
+        "options": ["Fall of the Roman Empire", "Decline of Church", "Growth of national armies and central taxation", "Isolation from nobles"],
+        "correctAnswerIndex": 2,
+        "explanation": "As feudal lords lost power, kings gained through standing armies and tax systems.\n\nSources: Rise of Nation-States"
+      }
+    ]
+  }
+}
