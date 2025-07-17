@@ -1,1 +1,224 @@
+  "\uD83D\uDCC6 Current Affairs – July 15, 2025": [
+      {
+        "questionText": "What makes the newly discovered exoplanet TOI-1846 significant?",
+        "options": [
+          "It orbits our sun and may support human life",
+          "It’s the smallest exoplanet found by NASA’s Hubble telescope",
+          "It’s a super-Earth orbiting a red dwarf star and may be rich in water",
+          "It has the same atmosphere as Venus"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "TOI-1846 is a newly found exoplanet discovered using NASA’s TESS data. It is classified as a super-Earth—about twice the size of Earth—and orbits a red dwarf star 154 light-years away. It may contain water, but 'super-Earth' refers to size and mass, not habitability."
+      },
+      {
+        "questionText": "Under which article of the Indian Constitution can the President nominate members to the Rajya Sabha?",
+        "options": [
+          "Article 80(3)",
+          "Article 72",
+          "Article 75",
+          "Article 370"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "Article 80(3) empowers the President to nominate 12 individuals to the Rajya Sabha who possess special knowledge in fields like literature, science, art, or social service. The Ministry of Home Affairs processes the appointments, as clarified under the Allocation of Business Rules, 1961."
+      },
+      {
+        "questionText": "What recent agreement has France made regarding its Pacific territory New Caledonia?",
+        "options": [
+          "It granted full independence to New Caledonia",
+          "It will hold a referendum for annexation by Australia",
+          "It dissolved New Caledonia's regional government",
+          "It agreed to grant greater autonomy while keeping it part of France"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "France has agreed to give New Caledonia more autonomy by creating a 'State of New Caledonia' within the French Republic. This does not equate to independence but acknowledges long-standing divisions between the indigenous Kanak people and European settlers."
+      },
+      {
+        "questionText": "What is the purpose of India’s upcoming weather derivatives market?",
+        "options": [
+          "To monitor cyclone predictions through satellite trade",
+          "To allow trading of rainfall and temperature-based contracts for weather risk hedging",
+          "To help insurance companies trade carbon credits",
+          "To fix MSPs based on rainfall indices"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "India is launching its first weather derivatives with NCDEX and IMD. These contracts help hedge weather-related risks (like irregular monsoons or heatwaves) using rainfall or temperature data as the underlying asset. Unlike financial derivatives, they are tied to meteorological indices."
+      },
+      {
+        "questionText": "Why is Singapore’s location considered strategically important for global trade?",
+        "options": [
+          "It borders the Arctic Ocean and controls the Panama Canal",
+          "It sits at the intersection of the Red Sea and the Persian Gulf",
+          "It is near the Strait of Malacca, connecting the Indian Ocean and South China Sea",
+          "It is located at the confluence of the Amazon and Nile rivers"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "Singapore is a key maritime hub due to its location along the Strait of Malacca—a crucial global shipping route connecting the Indian Ocean and the South China Sea. Its port is the largest in Southeast Asia and among the busiest in the world, making it vital for trade and logistics."
+      },
+      {
+        "questionText": "What does the Vice President mean by 'Sovereignty will not be lost through invasions, but through dependence on foreign digital infrastructure'?",
+        "options": [
+          "Overreliance on foreign digital services threatens national autonomy",
+          "India should ban foreign internet platforms",
+          "Sovereignty now depends on military strength alone",
+          "Countries are safe as long as their physical borders are intact"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "The statement warns that in today's digital age, control is no longer seized through traditional invasions, but by dominating digital infrastructure. Relying on foreign platforms for data storage, communication, and commerce exposes a nation to external control—undermining its digital sovereignty. This concern aligns with the broader issue of digital colonialism, where big tech firms from developed nations exploit data from developing countries."
+      },
+      {
+        "questionText": "Which of the following best defines Digital Colonialism as per current global concerns?",
+        "options": [
+          "Colonization of cyber cafes and digital devices",
+          "A form of digital censorship by international organizations",
+          "Mandatory internet shutdowns enforced by authoritarian states",
+          "Control of digital platforms and data in developing countries by tech giants from developed nations"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "Digital Colonialism refers to a new form of control where companies from developed nations, such as the U.S., dominate the digital ecosystems of developing countries. Through data extraction, behavior analysis, AI training, and monetization, they establish an unequal power structure that threatens the autonomy of the Global South in the digital realm."
+      },
+      {
+        "questionText": "How is India tackling the challenges posed by digital colonialism?",
+        "options": [
+          "By banning all foreign apps",
+          "Through initiatives like ONDC, India Stack, and data localization policies",
+          "By nationalizing big tech companies",
+          "By outsourcing its digital infrastructure to friendly nations"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "India is promoting digital sovereignty by developing indigenous platforms such as ONDC and India Stack. It has also enacted the Digital Personal Data Protection Act (DPDP), 2023, and rejected the Osaka Track to ensure local control over data. These steps reduce reliance on foreign tech ecosystems and help secure India’s digital future."
+      },
+      {
+        "questionText": "Why has the SC-NBWL recommended revising the Eco-Sensitive Zone (ESZ) Guidelines, 2011?",
+        "options": [
+          "Because a 10-km ESZ boundary is impractical in all areas",
+          "To expand ESZs uniformly across India",
+          "To allow commercial mining within ESZs",
+          "Due to pressure from wildlife activists"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "The Standing Committee of the National Board for Wildlife (SC-NBWL) highlighted that a uniform 10-km ESZ is not suitable everywhere. For example, in Himachal Pradesh, over 65% land is forested. Applying strict ESZ rules without flexibility could hamper development. Hence, a site-specific approach is being advocated for better balance between ecology and development."
+      },
+      {
+        "questionText": "What is the purpose of declaring Eco-Sensitive Zones (ESZs) around protected areas in India?",
+        "options": [
+          "To allow unrestricted tourism",
+          "To promote commercial mining near forests",
+          "To create a buffer zone to protect biodiversity and ecosystems",
+          "To displace villagers for wildlife expansion"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "ESZs serve as transitional areas that reduce human-wildlife conflict and buffer the core protected zones from harmful activities. The ESZ Guidelines, 2011, classify activities into prohibited, regulated, and permitted categories to protect ecological balance. These zones do not displace local people and support conservation-friendly land use near national parks and sanctuaries."
+      },
+      {
+        "questionText": "What is meant by a 'multipolar world order' in international relations?",
+        "options": [
+          "A world dominated by two superpowers",
+          "A single global power dictating world policies",
+          "A global system where multiple countries exert significant influence",
+          "Only Asian countries dominating global politics"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "A multipolar world refers to a global structure where power and influence are distributed among multiple countries or blocs, unlike the bipolar (US–USSR) or unipolar (US-dominated) world orders. In such a system, countries pursue diverse agendas and engage through flexible partnerships. This shift reflects changes in geopolitics post-World War II, with India playing a central role through strategic multi-alignment."
+      },
+      {
+        "questionText": "How is India maintaining its centrality in a multipolar world order?",
+        "options": [
+          "By aligning only with the Western bloc",
+          "By avoiding all international groupings",
+          "By forming a new military alliance with Russia",
+          "By balancing engagements with multiple forums like QUAD, SCO, and BRICS"
+        ],
+        "correctAnswerIndex": 3,
+        "explanation": "India has shifted from a non-aligned posture to a multi-alignment strategy. It participates in both Western-led platforms like QUAD and Indo-Pacific Economic Framework (IPEF) and Eurasian forums such as SCO and BRICS. This allows India to safeguard its interests while promoting a multipolar Asia within the broader global order."
+      },
+      {
+        "questionText": "What challenge to India’s multipolar strategy has been intensified by the Ukraine war?",
+        "options": [
+          "Resurgence of Cold War-style bloc politics",
+          "Collapse of the European Union",
+          "India’s isolation from the Global South",
+          "Unification of NATO with Asian countries"
+        ],
+        "correctAnswerIndex": 0,
+        "explanation": "The Ukraine conflict has revived bipolar politics, pushing nations to align either with the US-led bloc or the Russia-China axis. This geopolitical polarization threatens India’s space to maneuver independently, complicating its multi-alignment strategy and reducing the flexibility essential to uphold multipolarity."
+      },
+      {
+        "questionText": "Why did the WHO recognize India’s efforts in integrating AI with Traditional Medicine?",
+        "options": [
+          "India banned foreign AI firms",
+          "India developed a cure for COVID-19 using Ayurveda",
+          "India proposed and contributed to WHO’s AI-Health brief on traditional medicine",
+          "India replaced all allopathic treatments with Ayurveda"
+        ],
+        "correctAnswerIndex": 2,
+        "explanation": "India was recognized by WHO for its leadership in applying Artificial Intelligence to traditional systems like Ayurveda, Unani, Siddha, and others. India contributed to the WHO’s first technical brief on this issue under the Global Initiative on AI for Health (GI-AI4H), showcasing applications like Ayurgenomics and AI-assisted diagnostics."
+      },
+      {
+        "questionText": "Which Indian initiatives are helping promote AI in Traditional Medicine systems?",
+        "options": [
+          "National Cyber Health Mission and Bharat Cloud",
+          "Traditional Knowledge Digital Library, Ayush Grid, and SAHI Portal",
+          "AyurBot AI and India Pulse Project",
+          "e-Sanjeevani and Jan Arogya Abhiyan"
+        ],
+        "correctAnswerIndex": 1,
+        "explanation": "India has launched several digital platforms to support AI in traditional medicine. These include the Traditional Knowledge Digital Library (TKDL), the Ayush Grid (including AHMIS, SAHI, NAMASTE, and Ayush Research Portal), and mobile apps like Ayush Sanjivani. These tools aim to digitize, standardize, and support innovation in traditional healing systems through smart technology."
+      },
+        {
+          "questionText": "Why did India ease the rules for Flue Gas Desulphurisation (FGD) systems in thermal power plants?",
+          "options": [
+            "To promote sulphur-rich coal imports",
+            "Because SO₂ levels are already low and FGD systems are costly",
+            "To encourage foreign investment in energy",
+            "Because sulphates cause acid rain which helps agriculture"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "India relaxed FGD rules as ambient SO₂ levels in the country are well below the national limit (10–20 µg/m³ vs 80 µg/m³ standard). Indian coal is low in sulphur, and FGD systems are expensive with few qualified vendors. Sulphates also have a mild cooling effect by reflecting solar radiation, though not without downsides."
+        },
+        {
+          "questionText": "According to ICMR studies, why is India facing a 'silent salt epidemic'?",
+          "options": [
+            "Most Indians consume far less salt than recommended",
+            "Salt imports have become too expensive",
+            "High salt intake is linked to rising hypertension and heart diseases",
+            "Salt is being replaced with sugar in urban diets"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Urban Indians consume 9.2g/day and rural residents 5.6g/day, both higher than the WHO’s limit of 5g/day. Excessive salt intake leads to increased risk of hypertension, stroke, and kidney issues. ICMR has launched the #PinchForAChange campaign and encourages low-sodium salt alternatives to combat this trend."
+        },
+        {
+          "questionText": "What makes Diammonium Phosphate (DAP) a widely used fertilizer?",
+          "options": [
+            "It contains micronutrients like calcium and iron",
+            "It's highly soluble and provides both phosphorus and nitrogen",
+            "It’s mainly used for pest control in organic farming",
+            "It is naturally available in Indian soil"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "DAP provides two essential macronutrients—phosphorus and nitrogen—which are vital for plant growth and protein regulation. It dissolves quickly in soil, making it efficient for crops. India is the world’s largest agricultural consumer of DAP, and the government provides subsidies under the Nutrient Based Subsidy (NBS) scheme."
+        },
+        {
+          "questionText": "What prompted WHO to release its first unified guidelines on arboviral diseases?",
+          "options": [
+            "Decline in cases of dengue and chikungunya",
+            "New vaccines for all arboviruses",
+            "Climate change and urbanisation have made outbreaks more frequent and complex",
+            "Zika virus was eradicated worldwide"
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "With over 5.6 billion people at risk globally, WHO launched guidelines due to the increasing frequency and overlap of arboviral diseases like dengue, chikungunya, Zika, and yellow fever. Factors include climate change, human mobility, and urban growth, making unified clinical responses essential."
+        },
+        {
+          "questionText": "Why did the Union Agriculture Minister urge states to stop the forced sale of nano-fertilisers and biostimulants to farmers?",
+          "options": [
+            "They are banned under international trade laws",
+            "They are ineffective and harmful to crops",
+            "The government plans to phase out chemical fertilisers",
+            "These inputs should be optional, not forcibly marketed without farmer consent"
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "Nano-fertilisers and biostimulants can enhance nutrient delivery and stimulate plant growth, but forcing their sale violates farmer choice. The Minister emphasized voluntary adoption and scientific validation. Nano-fertilisers use controlled nutrient release via nanotech, while biostimulants promote plant quality independently of their nutrient content."
+        }
 
+
+    ],undertsand the formate
